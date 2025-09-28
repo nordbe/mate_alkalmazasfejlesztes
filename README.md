@@ -1,0 +1,2 @@
+# mate_alkalmazasfejlesztes
+MATE Akalmazásfejlesztés 2025_2026_ősz
